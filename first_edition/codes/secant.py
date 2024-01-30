@@ -29,3 +29,5 @@ if __name__ == '__main__':
     print(root); print("")
     root = secant(f,2.,2.1) 
     print(root)
+
+print("This is a trivial modification")
